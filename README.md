@@ -6,3 +6,5 @@
   <li>revenue increase per year</li>
   <li>optimaze customer parking</li>
 </ol>
+
+![dashboard-preview.png](dashboard-preview/dashboard-preview.png)
